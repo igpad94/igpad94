@@ -6,7 +6,7 @@
 
 
 
-# ABOUT ME:
+### ABOUT ME:
 
 I´m a full stack web developer student and i got a college degree on Business Administration.
 
