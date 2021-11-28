@@ -18,7 +18,19 @@ and rewarding you for your progress.
 
 ### TECH AND TOOLS:
 
-<img src=https://user-images.githubusercontent.com/82071606/143724562-ea5ac13e-e6cc-48d3-a9f7-b22377e58280.png /> <img src=https://user-images.githubusercontent.com/82071606/143724566-43e50de4-b7d5-4192-8900-3d729f7c747c.png /> <img src=https://user-images.githubusercontent.com/82071606/143724571-5a5377b3-d904-40f2-8198-102fb2c16686.png /> <img src=https://user-images.githubusercontent.com/82071606/143724572-878348b6-21d6-4056-925f-21a600a62e97.png /> <img src=https://user-images.githubusercontent.com/82071606/143724576-b1795af4-7781-4250-a4e8-eb1779e4101f.png /> <img src =https://user-images.githubusercontent.com/82071606/143724578-daa425db-2485-4017-8aea-206a3bafde2d.png /> <img src=https://user-images.githubusercontent.com/82071606/143724579-0719c4ed-9f27-4c62-9f04-27906e8c42cf.png /> <img src=https://user-images.githubusercontent.com/82071606/143724581-e4987662-ec04-418f-97ed-6445012b5c34.png /> <img src=https://user-images.githubusercontent.com/82071606/143724582-c174c4cf-67d2-449b-af70-73300177a097.png /> <img src=https://user-images.githubusercontent.com/82071606/143724584-522cff8c-6436-409c-be3d-9e7333c5d719.png /> <img src=https://user-images.githubusercontent.com/82071606/143724590-f75e39f3-386c-4ed7-b2c8-11116ef000bd.png /> <img src=https://user-images.githubusercontent.com/82071606/143724593-8abed610-9b4a-45a4-bf2f-6f5632b5e7b8.png /> <img src=https://user-images.githubusercontent.com/82071606/143724595-8a2c39ae-863a-43db-8218-39e1bba99f10.png />
+<img src = "https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src = "https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript">
+<img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm">
 
 
 ### SOFT SKILLS:
