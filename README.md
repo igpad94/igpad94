@@ -1,4 +1,4 @@
-### Hi there!! My name is Ignacio Padilla, from Buenos Aires, Argentia.👋 Be Welcome!
+### Hi there!! My name is Ignacio Padilla, from Buenos Aires, Argentina.👋 Be Welcome!
 
 
 
