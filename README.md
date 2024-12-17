@@ -1,18 +1,8 @@
 ### Hi there!! My name is Ignacio Padilla, from Buenos Aires, Argentina.👋 Be Welcome!
 
-
-
-![image](https://user-images.githubusercontent.com/82071606/143724015-5ddad09e-bad3-406d-ad61-75ca53386554.png)
-
-
-
 ### ABOUT ME:
 
-I´m a full stack web developer student and i got a college degree on Business Administration.
-
-- 🔭 I’m currently working on a mobile app that promotes the use of the bicycle by tracking your daily distances
-and rewarding you for your progress.
-- 🌱 I’m currently learning React Native.
+I´m a full stack mobile developer and i got a college degree on Business Administration.
 - 👯 I’m looking to collaborate on group projects that will allow me to grow and continue learning.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ignacio-padilla-87b41a214/)
 
